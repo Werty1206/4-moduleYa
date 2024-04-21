@@ -1,0 +1,21 @@
+{
+  "name": "4.2week",
+  "version": "1.0.0",
+  "description": "okay",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Werty1206/4-moduleYa"
+  },
+  "author": "Mishanya",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+  
+}
